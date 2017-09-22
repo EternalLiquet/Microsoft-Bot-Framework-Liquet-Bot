@@ -1,0 +1,41 @@
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Bot Application.dll.config
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Bot Application.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Bot Application.pdb
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Autofac.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Chronic.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Microsoft.Bot.Builder.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Microsoft.Bot.Connector.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Newtonsoft.Json.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\System.Net.Http.Formatting.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\System.Web.Http.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\System.Web.Http.WebHost.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Autofac.xml
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Microsoft.Bot.Builder.xml
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Microsoft.Bot.Connector.xml
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\Newtonsoft.Json.xml
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\System.Net.Http.Formatting.xml
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\System.Web.Http.xml
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\System.Web.Http.WebHost.xml
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\obj\Debug\Liquet Bot.csprojResolveAssemblyReference.cache
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\obj\Debug\Liquet Bot.csproj.CoreCompileInputs.cache
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\obj\Debug\Bot Application.dll
+C:\Users\aldmn\Documents\Microsoft Bot Framework Projects\Liquet Bot\Liquet Bot\obj\Debug\Bot Application.pdb
